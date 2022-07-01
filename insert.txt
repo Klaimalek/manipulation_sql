@@ -1,0 +1,12 @@
+insert into Product values(
+'P01''Sumsung Galaxy S20','Smartphone',3299);
+
+insert into Product values(
+'P02','ASUS Notebook,'PC',4599);
+
+insert into customer(customer_id,customer name,customer tel)values
+(C01',4Ali',7121009);
+
+insert into customer(customer_id,customer name,custome_tel)
+values('C02',4asma',77345823);
+ insert into orders values('c01','p02',2,9198(
